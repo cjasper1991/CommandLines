@@ -1,6 +1,6 @@
 # CommandLines
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+https://imgur.com/a/g6Eh5T0
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
